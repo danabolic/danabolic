@@ -1,6 +1,13 @@
-### Hi there 👋
+### Hello, Wolrd 👋
+It's Dani, im on my journey to become a software engineer, and this is where i'll be keeping track of personal projects.
 
 [![Dani's GitHub stats](https://github-readme-stats.vercel.app/api?username=danabolic&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🎧 Spotify Playing
+
+![spotify-github-profile](/img/default.svg)
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g9mmploi6sdrg6sk0xosqex2u&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
+
 <!--
 **danabolic/danabolic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
